@@ -86,8 +86,6 @@ Features:
   - Feedback system
 ```
 
-🔗 [View Project](#)
-
 </td>
 <td width="50%">
 
@@ -105,8 +103,6 @@ Features:
   - Data validation
   - Responsive UI
 ```
-
-🔗 [View Project](#)
 
 </td>
 </tr>
@@ -132,21 +128,27 @@ Features:
 
 ---
 
-## 🐍 Contribution Snake
+## 🎨 Animated Contribution Graph
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marganivenkatkiran&custom_title=Venkat%20Kiran's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&height=300" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Coding Streak & Activity
 
 <div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=marganivenkatkiran&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marganivenkatkiran&theme=radical" alt="Profile Summary"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marganivenkatkiran&theme=radical" alt="Repos per Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marganivenkatkiran&theme=radical" alt="Most Commit Language"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marganivenkatkiran&theme=radical" alt="Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marganivenkatkiran&theme=radical&utcOffset=5.5" alt="Productive Time"/>
 
 </div>
 
@@ -170,6 +172,7 @@ Features:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatmargani1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marganivenkatkiran)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
