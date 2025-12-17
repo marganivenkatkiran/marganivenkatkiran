@@ -123,7 +123,7 @@ Features:
 
 ---
 
-## 🐍 Contribution Snake - Multiple Themes!
+## 🐍 My Contribution
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/github-contribution-grid-snake-dark.svg">
