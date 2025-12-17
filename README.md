@@ -134,12 +134,6 @@ Features:
   <img alt="ocean theme snake animation" src="https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/ocean-snake.svg">
 </picture>
 
-### 🔥 Fire Theme Snake
-<img alt="fire theme snake animation" src="https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/fire-snake.svg">
-
-### ⚡ Neon Theme Snake
-<img alt="neon theme snake animation" src="https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/neon-snake.svg">
-
 </div>
 
 ---
