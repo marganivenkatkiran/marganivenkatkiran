@@ -120,35 +120,21 @@ Features:
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=marganivenkatkiran&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marganivenkatkiran&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=marganivenkatkiran&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marganivenkatkiran&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🎨 Animated Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marganivenkatkiran&custom_title=Venkat%20Kiran's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&height=300" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🔥 Coding Streak & Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marganivenkatkiran&theme=radical" alt="Profile Summary"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marganivenkatkiran&theme=radical" alt="Repos per Language"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marganivenkatkiran&theme=radical" alt="Most Commit Language"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marganivenkatkiran&theme=radical" alt="Stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marganivenkatkiran&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
