@@ -119,26 +119,26 @@ Features:
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=marganivenkatkiran&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
-
 </div>
 
 ---
+
 ## 🐍 Contribution Snake - Multiple Themes!
 
 <div align="center">
 
 ### 🌊 Ocean Theme Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="...github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="...ocean-snake.svg">
-  <img alt="ocean theme snake animation" src="...ocean-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/ocean-snake.svg">
+  <img alt="ocean theme snake animation" src="https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/ocean-snake.svg">
 </picture>
 
 ### 🔥 Fire Theme Snake
-<img alt="fire theme snake animation" src="...fire-snake.svg">
+<img alt="fire theme snake animation" src="https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/fire-snake.svg">
 
 ### ⚡ Neon Theme Snake
-<img alt="neon theme snake animation" src="...neon-snake.svg">
+<img alt="neon theme snake animation" src="https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/neon-snake.svg">
 
 </div>
 
