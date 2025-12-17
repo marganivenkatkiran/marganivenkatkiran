@@ -160,15 +160,6 @@ Features:
 
 </div>
 
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ### ⭐ Show Some Love
 
