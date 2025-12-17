@@ -160,7 +160,7 @@ Features:
 
 ### ⭐ Show Some Love
 
-**If you like my work, consider giving a star to my repositories!**
+**If you like my work, i would appreciate your support!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
