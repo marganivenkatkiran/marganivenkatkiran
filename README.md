@@ -53,7 +53,8 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/marganivenkatkiran/marganivenkatkiran/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/marganivenkatkiran/marganivenkatkiran/output/github-contribution-grid-snake.svg)
+
 
 ---
 
