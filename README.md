@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Venkat Kiran
+# 👋 Hi, I'm Margani Venkat Kiran
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%92%A1;Building+Real-World+Solutions+%F0%9F%8C%8D" alt="Typing SVG" />
 
@@ -17,8 +17,7 @@ const venkatKiran = {
     role: "Java Full Stack Developer",
     education: "Computer Science Engineering Student",
     currentFocus: "Building scalable applications & preparing for placements",
-    interests: ["Cloud Computing", "System Design", "Problem Solving"],
-    funFact: "I turn coffee into code ☕ → 💻"
+    interests: ["Cloud Computing", "System Design", "Problem Solving"]
 };
 ```
 
@@ -116,11 +115,10 @@ Features:
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=marganivenkatkiran&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=marganivenkatkiran&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=marganivenkatkiran&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=marganivenkatkiran&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marganivenkatkiran&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
 
 </div>
 
