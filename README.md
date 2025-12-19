@@ -112,10 +112,8 @@ Features:
 ---
 
 ## 🎓 Education
-<div align="center"> <table> <tr> <td align="center">
-<table>
-<tr>
-<td>
+<div align="center">
+ <table> <tr> <td align="center">
 
 🎓 **B.Tech – Computer Science Engineering**  
 🏫 **KL University**  
