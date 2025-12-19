@@ -140,7 +140,21 @@ Features:
 
 ## 📊 GitHub Analytics
 
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marganivenkatkiran&show_icons=true&theme=radical&hide_border=true" /> <img width="49%" src="https://streak-stats.demolab.com?user=marganivenkatkiran&theme=dark&hide_border=true" /> </div>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=marganivenkatkiran&show_icons=true&theme=radical&hide_border=true" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://streak-stats.demolab.com?user=marganivenkatkiran&theme=dark&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
 
 ---
 
