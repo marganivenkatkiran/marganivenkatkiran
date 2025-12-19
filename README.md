@@ -111,6 +111,33 @@ Features:
 
 ---
 
+## 🎓 Education
+
+<table>
+<tr>
+<td>
+
+🎓 **B.Tech – Computer Science Engineering**  
+🏫 **KL University**  
+📍 India  
+📅 *2021 – 2025*
+
+</td>
+<td>
+
+📘 **Core Subjects**
+- DSA  
+- Java & OOP  
+- DBMS  
+- OS  
+- Cloud Computing  
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
