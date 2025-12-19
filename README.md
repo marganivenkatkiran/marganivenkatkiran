@@ -112,7 +112,7 @@ Features:
 ---
 
 ## 🎓 Education
-
+<div align="center"> <table> <tr> <td align="center">
 <table>
 <tr>
 <td>
@@ -135,18 +135,12 @@ Features:
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=marganivenkatkiran&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
-
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=marganivenkatkiran&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-
-</div>
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marganivenkatkiran&show_icons=true&theme=radical&hide_border=true" /> <img width="49%" src="https://streak-stats.demolab.com?user=marganivenkatkiran&theme=dark&hide_border=true" /> </div>
 
 ---
 
